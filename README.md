@@ -1,4 +1,4 @@
-### Hi, welcome to my profile. I hope you will find the repositories valuable and useful.
+### Namaste, welcome to my profile. I hope you will find the repositories valuable and useful.
 
 ### Languages used in repositories:
 
